@@ -1,5 +1,5 @@
 function sum(m, n) {
-  return s = m + n;
+  return m + n;
 }
 
 
