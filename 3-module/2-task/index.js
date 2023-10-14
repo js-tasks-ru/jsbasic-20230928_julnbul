@@ -1,3 +1,10 @@
+//другое решение по замечанию
+
+function filterRange(arr, a, b) {
+  return arr.filter((item) => item >= 1 && item <= 4);
+}
+
+/*
 function filterRange(arr, a, b) {
   let arrRezult = [];
   for (let elem of arr) {
@@ -7,3 +14,4 @@ function filterRange(arr, a, b) {
   } 
   return arrRezult;
 }
+*/
